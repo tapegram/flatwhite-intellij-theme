@@ -1,11 +1,43 @@
 {
   "name": "Flatwhite-intellij-theme",
-  "author": "YourCompany",
-  "dark": true,
+  "author": "tavish pegram",
+  "dark": false,
+  "editorScheme": "/flatwhiteintellijtheme.xml",
   "colors": {
-    "primaryRed": "#821010"
+    "base1": "#605A52",
+    "base2": "#93836C",
+    "base3": "#B9A992",
+    "base4": "#dcd3c6",
+    "base5": "#e4ddd2",
+    "base6": "#f1ece4",
+    "base7": "#f7f3ee",
+
+    "accent": "#6a4dff",
+
+    "orange-text": "#5b5143",
+    "orange-text-sec": "#957f5f",
+    "orange-bg": "#F7E0C3",
+
+    "green-text": "#525643",
+    "green-text-sec": "#81895d",
+    "green-bg": "#E2E9C1",
+
+    "teal-text": "#465953",
+    "teal-text-sec": "#5f8c7d",
+    "teal-bg": "#D2EBE3",
+
+    "blue-text": "#4c5361",
+    "blue-text-sec": "#7382a0",
+    "blue-bg": "#DDE4F2",
+
+    "purple-text": "#614c61",
+    "purple-text-sec": "#9c739c",
+    "purple-bg": "#F1DDF1"
   },
   "ui": {
-    "Button.background": "primaryRed"
+    "*": {
+      "background": "base7",
+      "foreground": "base1"
+    }
   }
 }

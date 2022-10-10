@@ -6,11 +6,11 @@
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
-    <name>Flatwhite-intellij-theme</name>
+    <name>Flat-White Theme</name>
     <category>UI</category>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor email="support@yourcompany.com" url="https://www.yourcompany.com">YourCompany</vendor>
+    <vendor email="tapegram@gmail.com" url="https://www.yourcompany.com">YourCompany</vendor>
 
     <idea-version since-build="212" until-build="222.*"/>
 
